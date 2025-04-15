@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "3571ea4c1b1bc367",
+    "type": "split",
+    "children": [
+      {
+        "id": "78a96554d133f485",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8ad97991a4fece0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "面向航空磁异常探测的干扰抑制和目标检测技术研究"
+            }
+          },
+          {
+            "id": "a52f62640d65c454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/代码备份.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "代码备份"
+            }
+          },
+          {
+            "id": "525290280c85f951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/daily.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "daily"
+            }
+          },
+          {
+            "id": "b05db01bd1d02428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zob_config/template/weekly.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "weekly"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81c2e8abd46a5fe1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9ffae50bbc3d860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19f2cc2713ccce4d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "030ec6c470ef2de6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "66bb0b012e8448bb",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "bb704dd3a2f01f85",
+            "type": "leaf",
+            "state": {
+              "type": "vertical-tabs",
+              "state": {},
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
+            }
+          },
+          {
+            "id": "c319e065b20db749",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a24918dab19740a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8b65ba4364e086b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "895bc658776a6440",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "面向航空磁异常探测的干扰抑制和目标检测技术研究 的反向链接列表"
+            }
+          },
+          {
+            "id": "cdcfca88bf6a4863",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "f4442c125104bf19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7de8720afd7e6877",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "面向航空磁异常探测的干扰抑制和目标检测技术研究 的大纲"
+            }
+          },
+          {
+            "id": "27bf9ebdafbc751b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "8ce85213d16d1952",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-file-cleaner:清理文件": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "19f2cc2713ccce4d",
+  "lastOpenFiles": [
+    "zob_config/template/weekly.md",
+    "zob_config/js/thoughts_search_dataviewjs.md",
+    "面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
+    "zob_config/template/代码备份.md",
+    "zob_config/template/article.md",
+    "zob_config/README.md",
+    "zob_config/template/daily.md",
+    "zob_config/template/update_template.md",
+    "zob_config/template/insert_clock.md",
+    "zob_config/template/template.md",
+    "zob_config/js/dv-检索.js",
+    "zob_config/js/new daily dairy.js",
+    "zob_config/template",
+    "zob_config/js",
+    "zob_config",
+    "Pasted image 20250414202219.png",
+    "Pasted image 20250414201607.png",
+    "Pasted image 20250414172211.png",
+    "Pasted image 20250414171341.png",
+    "欢迎.md"
+  ]
+}
