@@ -176,7 +176,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -278,8 +279,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -288,18 +288,17 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:创建新看板": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-file-cleaner:清理文件": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "19f2cc2713ccce4d",
+  "active": "f8ad97991a4fece0",
   "lastOpenFiles": [
     "zob_config/template/weekly.md",
     "zob_config/js/thoughts_search_dataviewjs.md",
