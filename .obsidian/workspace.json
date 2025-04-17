@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
+                "file": "dairy/daily/2025-16-04-16-3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-16-04-16-3"
+            }
+          },
+          {
+            "id": "9379d23d865c5588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面向航空磁异常探测的干扰抑制和目标检测技术研究/面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -30,8 +54,33 @@
               "icon": "lucide-file",
               "title": "面向航空磁异常探测的干扰抑制和目标检测技术研究"
             }
+          },
+          {
+            "id": "5cf516da5d4f3d53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dairy/daily/daily.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "daily"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#日记",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,8 +153,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -125,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
+                "file": "面向航空磁异常探测的干扰抑制和目标检测技术研究/面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,20 +187,6 @@
             }
           },
           {
-            "id": "cdcfca88bf6a4863",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
             "id": "f4442c125104bf19",
             "type": "leaf",
             "state": {
@@ -160,7 +194,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -173,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
+                "file": "面向航空磁异常探测的干扰抑制和目标检测技术研究/面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,12 +237,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 424.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,23 +251,43 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-kanban:创建新看板": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "obsidian-file-cleaner:清理文件": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8ad97991a4fece0",
+  "active": "9379d23d865c5588",
   "lastOpenFiles": [
-    "zob_config/template/代码备份.md",
+    "面向航空磁异常探测的干扰抑制和目标检测技术研究/d3e6a28885c786d844c89fa4797b396.png",
+    "dairy/daily/2025-16-04-17-4.md",
+    "dairy/daily/2025-16-04-16-3.md",
+    "dairy/daily/daily.md",
+    "面向航空磁异常探测的干扰抑制和目标检测技术研究/面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
+    "面向航空磁异常探测的干扰抑制和目标检测技术研究/fba7e0e2a4c8ce87afe16b9f0832acc.png",
     "zob_config/template/daily.md",
-    "zob_config/template/weekly.md",
-    "面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
-    "zob_config/js/thoughts_search_dataviewjs.md",
+    "面向航空磁异常探测的干扰抑制和目标检测技术研究/86fd39992d597cae528456d1d2552a6.png",
+    "新建文件夹/新建文件夹.md",
+    "daily_notes/daily_notes.md",
+    "新建文件夹/daily_notes.md",
+    "新建文件夹/daily notes.md",
+    "新建文件夹",
+    "daily notes/daily notes.md",
+    "daily_notes/daily notes.md",
+    "daily_notes",
     "zob_config/template/article.md",
+    "daily notes",
+    "dairy/daily",
+    "dairy",
+    "面向航空磁异常探测的干扰抑制和目标检测技术研究/Pasted image 20250414171341.png",
+    "().md",
+    "面向航空磁异常探测的干扰抑制和目标检测技术研究",
+    "zob_config/template/代码备份.md",
+    "zob_config/template/weekly.md",
+    "zob_config/js/thoughts_search_dataviewjs.md",
     "zob_config/README.md",
     "zob_config/template/update_template.md",
     "zob_config/template/insert_clock.md",
@@ -243,11 +296,9 @@
     "zob_config/js/new daily dairy.js",
     "zob_config/template",
     "zob_config/js",
-    "zob_config",
-    "Pasted image 20250414202219.png",
-    "Pasted image 20250414201607.png",
-    "Pasted image 20250414172211.png",
-    "Pasted image 20250414171341.png",
+    "面向航空磁异常探测的干扰抑制和目标检测技术研究/Pasted image 20250414202219.png",
+    "面向航空磁异常探测的干扰抑制和目标检测技术研究/Pasted image 20250414201607.png",
+    "面向航空磁异常探测的干扰抑制和目标检测技术研究/Pasted image 20250414172211.png",
     "欢迎.md"
   ]
 }
