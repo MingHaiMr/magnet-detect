@@ -78,9 +78,69 @@
               "icon": "lucide-file",
               "title": "daily"
             }
+          },
+          {
+            "id": "856bf1a813eb1f1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面向航空磁异常探测的干扰抑制和目标检测技术研究/面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "面向航空磁异常探测的干扰抑制和目标检测技术研究"
+            }
+          },
+          {
+            "id": "2c358de8a1ff3f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基于磁异常探测的水下目标定位和反演/基于磁异常探测的水下目标定位和反演.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "基于磁异常探测的水下目标定位和反演"
+            }
+          },
+          {
+            "id": "92d7f0fb868d3a47",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "基于磁异常探测的水下目标定位和反演/7371d9b15d97475b9d01ade8c18329d.png"
+              },
+              "icon": "lucide-image",
+              "title": "7371d9b15d97475b9d01ade8c18329d"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -260,21 +320,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9379d23d865c5588",
+  "active": "856bf1a813eb1f1d",
   "lastOpenFiles": [
+    "基于磁异常探测的水下目标定位和反演/基于磁异常探测的水下目标定位和反演.md",
+    "面向航空磁异常探测的干扰抑制和目标检测技术研究/面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
+    "基于磁异常探测的水下目标定位和反演/2b2cabd4f88d3f52fbcac2e90ba3515.png",
+    "基于磁异常探测的水下目标定位和反演/7371d9b15d97475b9d01ade8c18329d.png",
+    "新建文件夹/新建文件夹.md",
+    "基于磁异常探测的水下目标定位和反演/新建文件夹.md",
+    "基于磁异常探测的水下目标定位和反演",
+    "基于磁异常探测的水下目标定位和反演.md",
+    "新建文件夹",
     "面向航空磁异常探测的干扰抑制和目标检测技术研究/d3e6a28885c786d844c89fa4797b396.png",
     "dairy/daily/2025-16-04-17-4.md",
     "dairy/daily/2025-16-04-16-3.md",
     "dairy/daily/daily.md",
-    "面向航空磁异常探测的干扰抑制和目标检测技术研究/面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
     "面向航空磁异常探测的干扰抑制和目标检测技术研究/fba7e0e2a4c8ce87afe16b9f0832acc.png",
     "zob_config/template/daily.md",
     "面向航空磁异常探测的干扰抑制和目标检测技术研究/86fd39992d597cae528456d1d2552a6.png",
-    "新建文件夹/新建文件夹.md",
     "daily_notes/daily_notes.md",
     "新建文件夹/daily_notes.md",
     "新建文件夹/daily notes.md",
-    "新建文件夹",
     "daily notes/daily notes.md",
     "daily_notes/daily notes.md",
     "daily_notes",
@@ -295,7 +361,6 @@
     "zob_config/js/dv-检索.js",
     "zob_config/js/new daily dairy.js",
     "zob_config/template",
-    "zob_config/js",
     "面向航空磁异常探测的干扰抑制和目标检测技术研究/Pasted image 20250414202219.png",
     "面向航空磁异常探测的干扰抑制和目标检测技术研究/Pasted image 20250414201607.png",
     "面向航空磁异常探测的干扰抑制和目标检测技术研究/Pasted image 20250414172211.png",
