@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面向航空磁异常探测的干扰抑制和目标检测技术研究/面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
+                "file": "dairy/daily/2025-17-04-22-2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "面向航空磁异常探测的干扰抑制和目标检测技术研究"
+              "title": "2025-17-04-22-2"
+            }
+          },
+          {
+            "id": "2630ec885c5996ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基于深度神经网络的磁异常探测方法/基于深度神经网络的磁异常探测方法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "基于深度神经网络的磁异常探测方法"
+            }
+          },
+          {
+            "id": "b850fc49fb17bed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基于深度神经网络的磁异常探测方法/新建文件夹.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "新建文件夹"
             }
           },
           {
@@ -140,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,8 +344,7 @@
               "title": "Timeline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -320,17 +367,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "856bf1a813eb1f1d",
+  "active": "9379d23d865c5588",
   "lastOpenFiles": [
     "基于磁异常探测的水下目标定位和反演/基于磁异常探测的水下目标定位和反演.md",
     "面向航空磁异常探测的干扰抑制和目标检测技术研究/面向航空磁异常探测的干扰抑制和目标检测技术研究.md",
+    "基于深度神经网络的磁异常探测方法/基于深度神经网络的磁异常探测方法.md",
+    "基于深度神经网络的磁异常探测方法/新建文件夹.md",
+    "基于深度神经网络的磁异常探测方法/5ce8127ccb145cf914e05aa5e138220.png",
+    "基于深度神经网络的磁异常探测方法/690e3e8234d9ed9f5bd2e6766ed284e.png",
+    "基于深度神经网络的磁异常探测方法/3733ee83013f8736a87f73aa168f043.png",
+    "基于深度神经网络的磁异常探测方法/51c2488a8ca2402b76f1e8194da4a8a.png",
+    "基于深度神经网络的磁异常探测方法/364487536accbcae0317dcc1d52bdda.png",
+    "dairy/daily/2025-17-04-22-2.md",
+    "新建文件夹/新建文件夹.md",
+    "基于深度神经网络的磁异常探测方法",
+    "新建文件夹",
     "基于磁异常探测的水下目标定位和反演/2b2cabd4f88d3f52fbcac2e90ba3515.png",
     "基于磁异常探测的水下目标定位和反演/7371d9b15d97475b9d01ade8c18329d.png",
-    "新建文件夹/新建文件夹.md",
     "基于磁异常探测的水下目标定位和反演/新建文件夹.md",
     "基于磁异常探测的水下目标定位和反演",
     "基于磁异常探测的水下目标定位和反演.md",
-    "新建文件夹",
     "面向航空磁异常探测的干扰抑制和目标检测技术研究/d3e6a28885c786d844c89fa4797b396.png",
     "dairy/daily/2025-16-04-17-4.md",
     "dairy/daily/2025-16-04-16-3.md",
@@ -348,7 +404,6 @@
     "daily notes",
     "dairy/daily",
     "dairy",
-    "面向航空磁异常探测的干扰抑制和目标检测技术研究/Pasted image 20250414171341.png",
     "().md",
     "面向航空磁异常探测的干扰抑制和目标检测技术研究",
     "zob_config/template/代码备份.md",
@@ -357,13 +412,7 @@
     "zob_config/README.md",
     "zob_config/template/update_template.md",
     "zob_config/template/insert_clock.md",
-    "zob_config/template/template.md",
     "zob_config/js/dv-检索.js",
-    "zob_config/js/new daily dairy.js",
-    "zob_config/template",
-    "面向航空磁异常探测的干扰抑制和目标检测技术研究/Pasted image 20250414202219.png",
-    "面向航空磁异常探测的干扰抑制和目标检测技术研究/Pasted image 20250414201607.png",
-    "面向航空磁异常探测的干扰抑制和目标检测技术研究/Pasted image 20250414172211.png",
-    "欢迎.md"
+    "zob_config/js/new daily dairy.js"
   ]
 }
